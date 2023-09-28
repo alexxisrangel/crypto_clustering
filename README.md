@@ -1,11 +1,5 @@
 # Crypto Market Data Clustering 
 
-## Table of Contents 
-Prerequisites
-Data Loading
-Data Preprocessing
-K-Means Clustering
-Results
 
 ### Prerequisites
 
